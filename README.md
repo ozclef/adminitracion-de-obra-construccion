@@ -1,5 +1,8 @@
 # adminitracion-de-obra-construccion
 
+![Status](https://img.shields.io/badge/status-en%20desarrollo-yellow)
+![Area](https://img.shields.io/badge/Construcción-Obra%20Negra-blue)
+
 
 # 🏗️ Administración de Obra y Construcción
 
