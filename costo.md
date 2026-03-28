@@ -48,13 +48,13 @@ Formas comunes:
 
 # 🧠 ¿CUÁNTO DEBERÍAN GANAR USTEDES?
 
-Tú ya estás haciendo:
+Yo estoy haciendo:
 
 * 📊 Presupuesto
 * 💻 Diseño
 * 📋 Control (nómina, inventario)
 
-Tu compa:
+compa:
 
 * 🤝 Consigue clientes
 
@@ -185,10 +185,8 @@ No eres albañil. Eres:
 
 ---
 
-Si quieres, te armo:
 
 * 📊 Estructura tipo empresa (roles + sueldos)
 * 💰 Cómo cerrar tratos y cuánto cobrar al cliente
 * 📋 Formato de contrato simple para que no te chamaqueen
 
-Solo dime 😏
