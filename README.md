@@ -8,6 +8,10 @@
 
 Sistema de gestión, cálculo y control de proyectos de construcción enfocado en **obra negra, presupuestos reales y organización profesional de obra**.
 
+
+<img width="945" height="726" alt="image" src="https://github.com/user-attachments/assets/88d18271-a6c2-46b6-a8c7-7ef06f7a2e91" />
+
+
 ---
 
 ## 📌 Enfoque
